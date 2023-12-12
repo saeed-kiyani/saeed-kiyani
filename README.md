@@ -1,7 +1,3 @@
-																																											Hi, I'm Saad! 👋
-																																🔥 Software Developer grinding hard to make something cool
-																																✨ Favorite Tech: JavaScript, React, Typescript, Python ...
-																																								📧 hmskiyani786@gmail.com
 
 <!--
 **saeed-kiyani/saeed-kiyani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
