@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saeed-kiyani&label=Profile%20views&color=0e75b6&style=flat" alt="saeed-kiyani" /> </p>
 
-<p align="left"> <a href="https://instagram.com/skiyaniofficial" target="blank"><img src="https://img.shields.io/twitter/follow/@mskiyani_144?logo=twitter&style=for-the-badge" alt="@mskiyani_144" /></a> </p>
+<p align="left"> <a href="https://instagram.com/skiyaniofficial" target="blank"><img src="https://www.instagram.com/skiyaniofficial?igsh=MW5raGI4Y2tkNTcxcQ==" alt="skiyaniofficial" /></a> </p>
 
 - 🌱 I’m currently learning **WD(HTML|CSS|JS), Bootstrap & jQuery, XML & JSON, PHP, Laravel, ReactJS, MongoDB, NodeJS, Dart & Flutter, Python, **
 
