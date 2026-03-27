@@ -64,6 +64,14 @@
 <a href="https://instagram.com/skiyaniofficial" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
 </a>
+
+<a href="https://linkedin.com/in/skiyaniofficial" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/923006383492" target="_blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" height="30" width="30"/>
+</a>
 </p>
 
 ---
