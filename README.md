@@ -1,7 +1,7 @@
 ![logo](https://github.com/saeed-kiyani/saeed-kiyani/blob/main/Black%20Minimal%20Business%20Personal%20Profile%20Linkedin%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Muhammad Saeed Kiyani</h1>
-<h3 align="center">Frontend Developer | Digital Marketer | Software Engineering Student</h3>
+<h3 align="center">Developer | Digital Marketer | Software Engineering Student</h3>
 
 <p align="center">
 🚀 Building modern web experiences while learning new technologies every day
@@ -17,7 +17,7 @@
 
 <h2>👨‍💻 About Me</h2>
 
-- 💻 I'm passionate about **Frontend Web Development**  
+- 💻 I'm passionate about **Web Development**  
 - 📈 I also work as a **Digital Marketer**  
 - 🎓 Currently studying **Advanced Diploma in Software Engineering (Aptech)**  
 - 🌱 Learning **Modern Web Development & Programming Languages**  
