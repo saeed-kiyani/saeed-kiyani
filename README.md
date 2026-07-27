@@ -130,10 +130,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-kiyani&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-kiyani&theme=tokyonight" />
-</p>
-
 ---
 
 ⭐ **If you like my projects, don't forget to star the repositories!**
