@@ -39,38 +39,6 @@
 
 ---
 
-## ⚡ Current Tech
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,react,mysql,mongodb,git,github,vscode" />
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=saeed-kiyani&label=Visitors&color=blue&style=for-the-badge"/>
-</p>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-kiyani&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=saeed-kiyani&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=saeed-kiyani&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ## 🛠️ Tech Stack
 
 ### Frontend
