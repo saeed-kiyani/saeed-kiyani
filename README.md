@@ -52,18 +52,12 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats-kiyani.vercel.app/api/top-langs/?username=saeed-kiyani&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=saeed-kiyani&theme=algolia&no-frame=true&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=saeed-kiyani&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
