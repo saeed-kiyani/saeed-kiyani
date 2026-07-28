@@ -27,7 +27,7 @@
 
 <td width="45%">
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/saeed-kiyani/saeed-kiyani/main/assets/developer.gif">
+<img align="right" width="350" src="./assets/Developer.jpeg">
 
 </td>
 </tr>
