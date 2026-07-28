@@ -104,11 +104,23 @@ A premium perfume e-commerce website with product showcase and WhatsApp integrat
 <p align="center">
 
 <a href="https://github.com/saeed-kiyani">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
-<a href="https://www.linkedin.com/in/skiyaniofficial/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.facebook.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=facebook" width="50"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
 
 </p>
