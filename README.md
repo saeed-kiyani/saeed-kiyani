@@ -12,12 +12,26 @@
 
 ## 👨‍💻 About Me
 
+<table>
+<tr>
+<td width="55%">
+
 - 🚀 Frontend Developer & Web Designer
 - 💻 Skilled in building responsive websites
 - 🎨 Passionate about UI/UX Design and Digital Marketing
 - 🌱 Currently learning Full Stack Development
 - 🏗️ Working on real-world web projects
 - 📚 Advanced Diploma in Software Engineering (Aptech)
+
+</td>
+
+<td width="45%">
+
+<img align="right" width="350" src="https://raw.githubusercontent.com/saeed-kiyani/saeed-kiyani/main/assets/developer.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
