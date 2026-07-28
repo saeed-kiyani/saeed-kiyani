@@ -49,7 +49,7 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=saeed-kiyani&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
