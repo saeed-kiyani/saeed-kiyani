@@ -13,7 +13,7 @@
 - 🌱 Currently learning **Advanced Laravel & React**
 - 🔭 Working on **CRM & Healthcare Projects**
 - 💬 Ask me about **PHP, Laravel, JavaScript, MySQL**
-- 📫 Reach me at **your-email@example.com**
+- 📫 Reach me at **hmskiyani786@gmail.com**
 - ⚡ Fun fact: I love turning ideas into real applications.
 
 ---
@@ -21,7 +21,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/skiyaniofficial/" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
