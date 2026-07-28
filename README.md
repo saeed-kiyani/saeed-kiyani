@@ -8,36 +8,68 @@
   <img src="https://komarev.com/ghpvc/?username=saeed-kiyani&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Web+Designer;Digital+Marketer;PHP+%7C+Laravel+%7C+React;Always+Learning+New+Technologies" />
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 <table>
 <tr>
+
 <td width="55%">
 
-- 🚀 Frontend Developer & Web Designer
-- 💻 Skilled in building responsive websites
-- 🎨 Passionate about UI/UX Design and Digital Marketing
-- 🌱 Currently learning Full Stack Development
-- 🏗️ Working on real-world web projects
+### Hi, I'm Saeed 👋
+
+- 🚀 Frontend Developer
+- 💻 Passionate Web Designer
+- 🌱 Learning Laravel & React
+- 🎯 Building Modern Websites
 - 📚 Advanced Diploma in Software Engineering (Aptech)
+- ❤️ Love Clean UI & UX
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<img align="right" width="350" src="./assets/Developer.jpeg">
+<img src="./assets/Developer.jpeg" width="350"/>
 
 </td>
+
 </tr>
 </table>
 
 ---
+
+## ⚡ Current Tech
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,laravel,react,mysql,mongodb,git,github,vscode" />
+
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=saeed-kiyani&label=Visitors&color=blue&style=for-the-badge"/>
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeed-kiyani&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saeed-kiyani&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy-git-main-ryo-ma.vercel.app/?username=saeed-kiyani&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
 
 ## 🛠️ Tech Stack
 
