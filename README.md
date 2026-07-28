@@ -45,7 +45,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-kiyani.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saeed-kiyani&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
