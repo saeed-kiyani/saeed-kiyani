@@ -30,7 +30,7 @@
 
 <td width="45%" align="center">
 
-<img src="./assets/Developer.jpeg" width="350"/>
+<img src="./assets/developer.png" width="350"/>
 
 </td>
 
