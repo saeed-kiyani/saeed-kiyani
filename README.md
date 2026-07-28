@@ -72,11 +72,7 @@ A premium perfume e-commerce website with product showcase and WhatsApp integrat
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saeed-kiyani&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=saeed-kiyani&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 ---
